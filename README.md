@@ -10,19 +10,6 @@ Ce projet propose des scripts qui :
 - 📜 Journalisent chaque exécution dans un fichier horodaté
 ```
 
-## 📁 Structure du projet
-
-system-update-and-maintenance/
-├── README.md
-├── bash/
-│   └── system\_maintenance.sh
-├── python/
-│   └── system\_maintenance.py
-├── powershell/
-│   └── system\_maintenance.ps1
-└── logs/
-└── maintenance\_YYYYMMDD\_HHMMSS.log
-
 ## ⚙️ Prérequis
 
 ### 🔧 Linux (Bash / Python)
